@@ -1,0 +1,8 @@
+5일차 학생용 뼈대 (힌트 파일)
+
+먼저 슬라이드를 보고 혼자 해 보세요. 막히면 이 파일을 열어 주석(<!-- -->)의 설명을 보고 채웁니다.
+파일을 everyday/day05/ 에 복사해서 시작 파일로 써도 됩니다.
+
+search.html            검색 폼 (오전 첫 실습)
+apply.html             수강 신청서 ①~⑩ (이름 칸만 예시로 완성)
+contact-form-hint.html my-site about.html에 넣을 연락 폼 뼈대
