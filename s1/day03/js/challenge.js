@@ -81,15 +81,6 @@ console.log(isEven(4));
 console.log(isEven(7));
 
 
-
-
-
-
-
-
-
-
-
 function makeCell(text) {
     return "<td>" + text + "</td>";
 }
